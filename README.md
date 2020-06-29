@@ -16,6 +16,7 @@ auth](https://mail.google.com/), [JWT with refreshToken](http://www.passportjs.o
 added soon. Here is a deployed link **[live on heroku](https://gopherscom.herokuapp.com/)** .
 
 
+
 ##
 ##
 
@@ -33,6 +34,37 @@ const BASE_URL = "https://gopherscom.herokuapp.com/"
 ```
 ##
 
+
+**TEST** :: use the default route `BASE_URL` and ping the server and see the response.
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Methods</th>
+            <th scope="col">Path</th>
+            <th scope="col">Types</th>
+            <th scope="col">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td><code>GET</code></td>
+            <td>
+                <code>
+                   BASE_URL
+                </code>
+            </td>
+            <td><code>{String}</code></td>
+            <td> <code>'/'</code> route will allow you to see the response whether the server is `[👍up]` or `[👎down]`. </td>
+        </tr>
+    </tbody>
+</table>
+
+
+##
 
 
 ### User

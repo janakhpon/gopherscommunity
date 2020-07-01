@@ -103,7 +103,7 @@ const BASE_URL = "https://gopherscom.herokuapp.com/"
 
 
 ### User
-**[User](./docs/user.md)** is a about authetication and credentials. It primary have create account feature, `accessToken` and `refreshToken` feature.
+**[User](./docs/user.md)** is a about authetication and credentials. It primarily has features like `createUserAccount`, `accessToken` and `refreshToken` feature.
 
 #### User Model
 

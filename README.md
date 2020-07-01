@@ -1,3 +1,38 @@
+**Development Status** :: Please check the development status down below!!! .
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Development</th>
+            <th scope="col">Progress</th>
+            <th scope="col">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Backend Server :<code>GophersCom</code></td>
+            <td>
+                <code>
+                   Finished
+                </code>
+            </td>
+            <td> The backend server is finished for the time being but there is a good chance of `Elasticsearch Integration into SERVER` if necessary. </td>
+        </tr>
+		<tr>
+            <td>Frontend Client :<code>GophersCommunity</code></td>
+            <td>
+                <code>
+                   Not even started yet.
+                </code>
+            </td>
+            <td> The frontend implementation is not yet started and will work on it as soon as i could. </td>
+        </tr>
+    </tbody>
+</table>
+
+
+##
+##
+
 # GophersCommunity
 
 **GophersCommunity** is the frontend implementation of **gopherscom** using [Typescript](https://www.typescriptlang.org/), [React](https://reactjs.org/) and [Material-ui](https://material-ui.com/).
@@ -58,7 +93,7 @@ const BASE_URL = "https://gopherscom.herokuapp.com/"
                 </code>
             </td>
             <td><code>{String}</code></td>
-            <td> <code>'/'</code> route will allow you to see the response whether the server is `[👍up]` or `[👎down]`. </td>
+            <td> <code>'/'</code> route will allow you to see the response whether the server is [👍up] or [👎down]. </td>
         </tr>
     </tbody>
 </table>

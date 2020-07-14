@@ -11,18 +11,14 @@
         <tr>
             <td>Backend Server :<code>GophersCom</code></td>
             <td>
-                <code>
-                   Finished
-                </code>
+                Finished
             </td>
             <td> The backend server is finished for the time being but there is a good chance of `Elasticsearch Integration into SERVER` if necessary. </td>
         </tr>
 		<tr>
             <td>Frontend Client :<code>GophersCommunity</code></td>
             <td>
-                <code>
-                   Not even started yet.
-                </code>
+                has not started yet
             </td>
             <td> The frontend implementation is not yet started and will work on it as soon as i could. </td>
         </tr>
